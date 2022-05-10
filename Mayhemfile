@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-ichbins
+target: ichbins
+
+cmds:
+  - cmd: /ichbins/ichbins
