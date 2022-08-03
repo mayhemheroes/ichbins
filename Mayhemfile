@@ -2,4 +2,4 @@ project: ichbins
 target: ichbins
 
 cmds:
-  - cmd: /ichbins/ichbins
+  - cmd: /ichbins
